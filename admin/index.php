@@ -49,7 +49,7 @@ exit();
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h4 class="page-head-line">Please Login To Enter </h4>
+                    <h4 class="page-head-line">Login To Enter </h4>
 
                 </div>
 
