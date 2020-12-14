@@ -69,9 +69,8 @@ exit();
                         <hr />
                         <button type="submit" name="submit" class="btn btn-info"><span class="glyphicon glyphicon-user"></span> &nbsp;Log Me In </button>&nbsp;
                 </div>
-                </form>
-                <div class="col-md-6">
-                    
+                
+                                    </div>
 
             </div>
         </div>
