@@ -71,28 +71,7 @@ exit();
                 </div>
                 </form>
                 <div class="col-md-6">
-                    <div class="alert alert-info">
-                        This is a free bootstrap admin template with basic pages you need to craft your project. 
-                        Use this template for free to use for personal and commercial use.
-                        <br />
-                         <strong> Some of its features are given below :</strong>
-                        <ul>
-                            <li>
-                                Responsive Design Framework Used
-                            </li>
-                            <li>
-                                Easy to use and customize
-                            </li>
-                            <li>
-                                Font awesome icons included
-                            </li>
-                            <li>
-                                Clean and light code used.
-                            </li>
-                        </ul>
-                       
-                    </div>
-                                    </div>
+                    
 
             </div>
         </div>
