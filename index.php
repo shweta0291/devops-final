@@ -62,7 +62,7 @@ exit();
             <form name="admin" method="post">
             <div class="row">
                 <div class="col-md-6">
-                     <label>Enter Reg no : </label>
+                     <label>Enter Registration number: </label>
                         <input type="text" name="regno" class="form-control"  />
                         <label>Enter Password :  </label>
                         <input type="password" name="password" class="form-control"  />
